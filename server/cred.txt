@@ -1,0 +1,9 @@
+recipegeek mongodb credentials
+
+username : redmi1smail
+password : J2NLv6A6usQvRe03
+
+
+
+
+mongodb+srv://redmi1smail:<password>@recipes.sr5nxht.mongodb.net/?retryWrites=true&w=majority&appName=recipes
